@@ -1,0 +1,13 @@
+Commandes make :
+
+- make all : compiler les programmes
+- make testeur : exécuter le programme côté testeur
+- make developpeur : exécuter le programme côté développeur
+
+Codes des protocoles inclus dans la base de données :
+
+- b2dOn51LK7
+- D5y5A6Puu5
+- H6cj4OMo64
+- Ffw5z46SN1
+- k9yP0rJ3Y1
